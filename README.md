@@ -1,0 +1,1 @@
+La estructura del proyecto es modular. En la carpeta de la entrega 2 se tienen los casos 1 y 2 con sus respectivos resultados y en la carpeta de la entrega 3 se tienen los casos 3 y 4 con sus respectivos resultados.
