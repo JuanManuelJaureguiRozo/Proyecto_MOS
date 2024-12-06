@@ -1,0 +1,6 @@
+Costo de distancia total: 60972.16
+Costo de tiempo total: 14912.50
+Costo de mantenimiento total: 171000.00
+Costo de carga total: 10100.00
+Valor de la función objetivo: 75884.66
+Costo total: 256984.66
