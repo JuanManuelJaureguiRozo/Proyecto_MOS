@@ -1,0 +1,16 @@
+Vehículo que tardó más en completar su ruta: 4
+Duración: 2093.20 minutos
+Distancia: 19.16 km
+
+Vehículo que tardó menos en completar su ruta: 1
+Duración: 525.00 minutos
+Distancia: 3.82 km
+
+Vehículo que recorrió la mayor distancia: 4
+Duración: 2093.20 minutos
+Distancia: 19.16 km
+
+Vehículo que recorrió la menor distancia: 1
+Duración: 525.00 minutos
+Distancia: 3.82 km
+
